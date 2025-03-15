@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<templates>
+  <clibs name="example">
+    <add>Uhttps://raw.githubusercontent.com/ChangingI/drawiolib/master/Datacom-2021.xml</add>
+  </clibs>
+  <template section="Title" subsection="Subtitle" url="http://example.com/diagram.xml" title="Diagram" name="Tooltip" preview="https://example.com/diagram.png" libs="general;basic" clibs="example" tags="term1;term2" />
+</templates>
