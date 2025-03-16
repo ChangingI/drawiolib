@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <templates>
+  <clibs name="network">
+    <add>Uhttps://raw.githubusercontent.com/ChangingI/drawiolib/master/Datacom-2021.xml</add>
+  </clibs>
   <template url="basic/classes.xml" title="classDiagram" libs="general;uml" tags="classDiagram;Classes"/>
   <template url="basic/flowchart.xml" title="flowchart" libs="general;flowchart" tags="flowchart;Flowchart"/>
   <template url="basic/orgchart.xml" title="orgChart" libs="general;basic;arrows" tags="orgChart;Orgchart"/>
@@ -10,5 +13,5 @@
   <template url="basic/cross.xml" title="Cross-Functional Flowchart" tags="Cross-Functional;Flowchart;Cross"/>
   <template url="basic/placeholder.xml" title="placeholders" tags="placeholder;Network;Subnet;;Folding;Collapse;Expand;"/>
   <template url="basic/mindmap.xml" title="mindmaps" tags="mindmap;Folding;Collapse;Expand;Tree;Subtree"/>
+  <template section="Title" subsection="Subtitle" url="basic/classes.xml" title="Diagram" name="Tooltip" preview="" libs="general;basic" clibs="network" tags="term1;term2" />
 </templates>
-
