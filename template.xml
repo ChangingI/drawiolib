@@ -3,7 +3,7 @@
   <clibs name="network">
     <add>Uhttps://raw.githubusercontent.com/ChangingI/drawiolib/master/Datacom-2021.xml</add>
   </clibs>
-  <template section="Huawei" subsection="Network" url="basic/classes.xml" title="Common" name="Common" preview="" libs="general;basic" clibs="network" tags="network" />
+  <template section="Huawei" subsection="Network" url="https://raw.githubusercontent.com/ChangingI/drawiolib/master/Datacom-2021.xml" title="Common" name="Common" preview="" libs="general;basic" clibs="network" tags="network" />
   <template section="Huawei" subsection="Network" url="basic/classes.xml" title="CloudWAN" name="CloudWAN" preview="" libs="general;basic" clibs="network" tags="network" />
   <template section="Huawei" subsection="Network" url="basic/classes.xml" title="CloudCampus" name="CloudCampus" preview="" libs="general;basic" clibs="network" tags="network" />
   <template section="Huawei" subsection="Network" url="basic/classes.xml" title="CloudFabric" name="CloudFabric" preview="" libs="general;basic" clibs="network" tags="network" />
